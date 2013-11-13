@@ -1,4 +1,0 @@
-side-project
-============
-
-Test repository.
